@@ -38,7 +38,7 @@ Hi ! I am Cybersecurity Enthusiast with 5+ years of experience in server adminis
 
 - 🥇 **Certifications**:
 - [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/)
-- 
+  
 - [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)  
 
 
