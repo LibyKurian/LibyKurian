@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Liby Kurian!
+# 👋 Hello, I'm Liby Kurian !
 
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-blue?style=flat&logo=github)](https://github.com/LibyKurian/libykurian.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/libyvkurian/)
