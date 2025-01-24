@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Liby Kurian!
 
-[![GitHub Portfolio](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/LibyKurian/libykurian.github.io)
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub-Portfolio-blue?style=flat&logo=github)](https://github.com/LibyKurian/libykurian.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/libyvkurian/)
 
 ---
@@ -9,64 +9,73 @@
 
 Hi ! I am Cybersecurity Enthusiast with 5+ years of experience in server administration, data security, and compliance. 
 
-- 🔭 I’m currently working on **[Your Current Project/Goal]**  
-- 🌱 I’m learning **[Technologies or Skills You’re Learning]**  
-- 🤝 I’m looking to collaborate on **[Your Collaboration Interests]**  
-- ⚡ Fun fact: **[Something Interesting About You]**
+🔭 I’m currently seeking job opportunities in cybersecurity, with a focus on Information Security Audits
+🌱 I’m actively learning advanced techniques in network security, SIEM (Security Information and Event Management), and cloud security
+🤝 I’m open to collaborating on penetration testing projects, vulnerability assessments, and security audits
 
 ---
 
 ## 🚀 Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **Security & Networking Tools**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=appveyor&logoColor=white)  
+![Tenable One](https://img.shields.io/badge/Tenable_One-000000?style=for-the-badge&logo=appveyor&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-0F4B5B?style=for-the-badge&logo=appveyor&logoColor=white)
 
-### Cybersecurity Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF9900?style=for-the-badge&logo=burp-suite&logoColor=white)
+### **Cloud Security**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
+### **Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## 📈 GitHub Stats
+### **Networking**
+![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6F00?style=for-the-badge&logo=internet-explorer&logoColor=white)  
+![Firewall](https://img.shields.io/badge/Firewall-FF5F00?style=for-the-badge&logo=security&logoColor=white)  
+![VPN](https://img.shields.io/badge/VPN-404040?style=for-the-badge&logo=vpn&logoColor=white)  
+![IDS/IPS](https://img.shields.io/badge/IDS/IPS-FF6F00?style=for-the-badge&logo=security&logoColor=white)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+### **Compliance & Standards**
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0073E6?style=for-the-badge&logo=iso&logoColor=white)  
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-333333?style=for-the-badge&logo=payment&logoColor=white)  
+![OWASP](https://img.shields.io/badge/OWASP-7F7F7F?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Certifications**: [Certification Name], [Certification Name]  
-- 💻 **Hackathons**: Participated in [Hackathon Name] and won [Award].  
-- 🔒 **CTFs**: Solved [Number] challenges on platforms like TryHackMe, HackTheBox, etc.
+- 🥇 **Certifications**:
+- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/)
+- [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)  
+
 
 ---
 
 ## 📂 Featured Projects
 
-### [Project Name 1](https://github.com/your-username/project1)
-**Description**: Briefly describe what the project does and why it's awesome.  
-**Technologies Used**: [Tech1], [Tech2], [Tech3]
+### [AWS IAM User Creation]
+**Description**: Automated the secure creation of IAM users using AWS Identity and Access Management (IAM) to manage user permissions and enforce security policies.  
+**Technologies Used**: AWS, Python, Bash
 
-### [Project Name 2](https://github.com/your-username/project2)
-**Description**: Briefly describe what the project does and why it's awesome.  
-**Technologies Used**: [Tech1], [Tech2], [Tech3]
+### [AWS 3-Tier Architecture]
+**Description**: Constructed a robust 3-tier architecture on AWS Console, incorporating services like VPC, EC2, Auto Scaling, IGW, Route Table, Security Groups, and Route 53, enhancing system reliability and resilience.  
+**Technologies Used**: AWS, CloudFormation, Terraform
 
 ---
 
 ## 📞 Contact Me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)  
-- **Portfolio**: [your-portfolio](https://your-portfolio.com)
+- **Email**: [your-email@example.com](mailto:libymthw@gmail.com)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/libyvkurian/) 
 
 ---
 
