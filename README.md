@@ -1,3 +1,14 @@
+#### `Hey there, fellow explorer! 🚀 If you've landed here from my website, you probably know a bit about me already—so why not dive deeper? Check out these pages below! But if you're new here, no worries—scroll down for a quick intro about me!`
+
+-  [x]  **Portfolio**: [Explore my Portfolio](https://github.com/LibyKurian/cybersecurity_portfolio.git)  
+  *`I showcase my learnings, course info and certification in the field of cybersecurity!`*
+  
+-  [x]  **EH Guide**: [Dive into my Ethical Hacking Guide Notes](https://github.com/LibyKurian/ethicalhacking-h.git)  
+  *`Unlock my notes in ethical hacking wisdom with a lot of insight.`*
+  
+> -  [ ]  **College Project Showcase**: [Sneak a peek at my College Project](#) *`(Loading...)`*  
+
+<br>
 <h1 align="center">👋 Hello, I'm <b>Liby Kurian</b></h1>
 
 <p align="center">
@@ -82,23 +93,13 @@ Integrated features such as a **search engine**, **filtering options**, and **jo
 
 ---
 
-Fellow explorer! Whether you stumbled here from my website or are just curious to see more, I've got a few pages for you:
-
-- **Portfolio**: [Explore my Portfolio](https://github.com/LibyKurian/cybersecurity_portfolio.git)  
-  *I showcase my learnings, course info and certification in the field of cybersecurity!*
-  
-- **EH Guide**: [Dive into my Ethical Hacking Guide Notes](https://github.com/LibyKurian/ethicalhacking-h.git)  
-  *Unlock my notes in ethical hacking wisdom with a lot of insight.*
-  
-- **College Project Showcase**: [Sneak a peek at my College Project](#) *(Loading...)*  
-  
----
-
 
 ## Contact
 
 If you'd like to chat, collaborate, or have a job opportunity, hit me up on LinkedIn or drop me an Email
+
 📧 **Email**: [Click here](mailto:liby.mthw+git@gmail.com)  
+
 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/libyvkurian/)  
 
 ---
