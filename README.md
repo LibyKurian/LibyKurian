@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a **Cybersecurity Enthusiast** with over 5 years of experience in server administration, data security, and vulnerability assessment. Passionate about security audits, penetration testing, and ethical hacking, I continuously work on enhancing my skills in network security, SIEM, and cloud security.
+I am a **Cybersecurity Enthusiast** with years of experience in server administration, data security, and vulnerability assessment. Passionate about security audits, penetration testing, and ethical hacking, I continuously work on enhancing my skills in network security, SIEM, and cloud security.
 
 ---
 
@@ -62,7 +62,7 @@ I am a **Cybersecurity Enthusiast** with over 5 years of experience in server ad
 
 ## Certifications
 
-- [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/)
+- [Certified Ethical Hacker (CEH) Master](https://www.eccouncil.org/)
 - [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 ---
