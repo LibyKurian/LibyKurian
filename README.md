@@ -31,31 +31,32 @@ I am a **Cybersecurity Enthusiast** with years of experience in server administr
 ## Skills
 
 ### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Security & Networking Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=appveyor&logoColor=white)  
-![Tenable One](https://img.shields.io/badge/Tenable_One-000000?style=for-the-badge&logo=appveyor&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=appveyor&logoColor=white)
+![Tenable One](https://img.shields.io/badge/Tenable_One-000000?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-0F4B5B?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Networking & Security
-![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6F00?style=for-the-badge&logo=internet-explorer&logoColor=white)  
-![Firewall](https://img.shields.io/badge/Firewall-FF5F00?style=for-the-badge&logo=security&logoColor=white)  
-![VPN](https://img.shields.io/badge/VPN-404040?style=for-the-badge&logo=vpn&logoColor=white)  
+![TCP/IP](https://img.shields.io/badge/TCP/IP-FF6F00?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-FF5F00?style=for-the-badge&logo=security&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-404040?style=for-the-badge&logo=vpn&logoColor=white)
 ![IDS/IPS](https://img.shields.io/badge/IDS/IPS-FF6F00?style=for-the-badge&logo=security&logoColor=white)
 
 ### Compliance & Standards
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0073E6?style=for-the-badge&logo=iso&logoColor=white)  
-![PCI DSS](https://img.shields.io/badge/PCI_DSS-333333?style=for-the-badge&logo=payment&logoColor=white)  
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0073E6?style=for-the-badge&logo=iso&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-333333?style=for-the-badge&logo=payment&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-7F7F7F?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
@@ -63,11 +64,19 @@ I am a **Cybersecurity Enthusiast** with years of experience in server administr
 ## Certifications
 
 - [Certified Ethical Hacker (CEH) Master](https://www.eccouncil.org/)
+- [Splunk Core Certified User](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html)
 - [Google Cybersecurity Professional](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 ---
 
 ## Featured Projects
+
+### 🔹 Log Analysis & Monitoring with Splunk
+**Description**: Explored log data and created reports using Splunk Core, focusing on search queries (SPL), dashboards, and alerts.
+Built hands-on skills in log analysis, event correlation, and SIEM monitoring for security insights.
+Earned the Splunk Core Certified User credential through guided labs and practice 
+**🛠Technologies Used:** Splunk, SPL, Dashboards, Alerts
+
 
 ### 🔹 Network Vulnerability Assessment Using Nessus
 **Description**: Conducted vulnerability scans on a home network using **Nessus**, identifying security gaps and analyzing risks.  
